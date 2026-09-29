@@ -1,4 +1,4 @@
 # Laggard-group
-This is my  project
+This is my hackathon prototype project
 <br>
 Author-Ankit Kumar.
